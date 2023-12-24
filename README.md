@@ -3,7 +3,7 @@
 </div>
 
 <center>
-<img src="./codigo.jpg">
+<img src="https://img2.wallspic.com/crops/2/9/5/8/3/138592/138592-cdigo-3840x2160.jpg">
 </center>
 
 ## Soy 👉
