@@ -4,7 +4,7 @@
 
 
 
-## Soy 👉
+## Soy 👇
 
 - ⭐ FRONTEND JUNIOR ⭐ 
 -  我说普通话!!! -
