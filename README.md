@@ -8,4 +8,4 @@
 
 - ⭐ FRONTEND JUNIOR ⭐ 
 -  我说普通话!!! -
-- *Venezolano 💪* -
+- *Sancristobalense 💪* -
