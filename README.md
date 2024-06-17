@@ -19,6 +19,10 @@ Hola! soy Jackson Florez ⭐<br>Desarrollador web Junior ⚡<br>我说普通话!
 ![](https://github-contributor-stats.vercel.app/api?username=Jacksonpirlo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jacksonpirlo&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jacksonpirlo&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Jacksonpirlo&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
