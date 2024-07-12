@@ -1,5 +1,5 @@
 # 🙌   About Me:
-Hola! soy Jackson Florez ⭐<br>Desarrollador web Junior ⚡<br>我说普通话!!! 💬<br>Sancristobalense 💪 
+Hola! soy Jackson Florez ⭐<br>Desarrollador web Junior ⚡<br>我说普通话!!! 💬 
 
 
 ## 🌐 Socials:
