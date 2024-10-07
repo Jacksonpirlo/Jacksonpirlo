@@ -1,6 +1,6 @@
 # ._. About Me:
 🙌 <br>Hola! soy Jackson Florez ⭐
-## Mí Gmail :) jacksonflorezp@gmail.com
+## Mi Gmail :) jacksonflorezp@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jf_cube) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jackson-florez-b19a29286/) 
