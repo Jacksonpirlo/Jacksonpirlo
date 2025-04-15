@@ -1,6 +1,6 @@
 # ._. About Me:
 
-<img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/katana-zero-video-game.gif" width="100%" />
+![Mi GIF animado](https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/katana-zero-video-game.gif)
 
 🙌 <br>Hola! soy Jackson Florez ⭐  
 ## Mi Gmail :) jacksonflorezp@gmail.com
