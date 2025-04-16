@@ -2,20 +2,16 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
-  <!-- 🔼 Línea superior con gifs repetidos como marco -->
-  <div style="display: flex; margin-bottom: 100px;">
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
+  <!-- 🔼 Línea superior con más gifs repetidos como marco -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 40px;">
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
   </div>
 
   <!-- 🧱 Contenido central con 3 gifs dentro (¡más separados!) -->
@@ -25,20 +21,14 @@
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/ben.gif" width="100" height="80" style="margin-left: 150px;" />
   </div>
 
-  <!-- 🔽 Línea inferior con gifs repetidos como marco -->
-  <div style="display: flex; margin-top: 100px;">
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
+  <!-- 🔽 Línea inferior con más gifs repetidos como marco -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 40px;">
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-right: 10px;" />
   </div>
 
 </div>
@@ -61,3 +51,21 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/cat.gif" width="32" height="32" />
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jacksonpirlo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jacksonpirlo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksonpirlo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jacksonpirlo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jacksonpirlo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Jacksonpirlo&icon=0&color=0)](https://visitcount.itsvg.in)
