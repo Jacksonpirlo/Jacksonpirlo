@@ -17,7 +17,7 @@
   <!-- 🧱 Contenido central con 3 gifs dentro (¡más separados!) -->
   <div style="display: flex; justify-content: center; align-items: center; padding: 100px 0;">
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/somethin.gif" width="100" height="80" style="margin-right: 90px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/katana-zero-video-game.gif" width="100" height="100" />
+    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/go-weegie.gif" width="100" height="100" />
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/ben.gif" width="100" height="80" style="margin-left: 90px;" />
   </div>
   <!-- 🔽 Línea inferior con más gifs repetidos como marco -->
