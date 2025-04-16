@@ -39,7 +39,6 @@
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/coin-mario-bros-arcade.gif" width="60" height="60" style="margin-left: 15px;" />
-    <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-left: 15px;" />
   </div>
 
 </div>
