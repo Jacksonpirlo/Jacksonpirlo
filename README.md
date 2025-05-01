@@ -14,7 +14,8 @@
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/mario-flower.gif" width="60" height="60" style="margin-right: 10px;" />
   </div>
 
-  <!-- 🧱 Contenido central con 3 gifs dentro (¡más separados!) -->
+  <!-- 🧱 Contenido central con 3 gifs dentro 
+  -->
   <div style="display: flex; justify-content: center; align-items: center; padding: 100px 0;">
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/somethin.gif" width="100" height="80" style="margin-right: 90px;" />
     <img src="https://github.com/Jacksonpirlo/Jacksonpirlo/raw/main/gifs/go-weegie.gif" width="100" height="100" />
@@ -43,7 +44,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
